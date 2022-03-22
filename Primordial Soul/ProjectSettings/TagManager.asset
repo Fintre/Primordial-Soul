@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PLayer
+  - Enemy
+  - Loot
+  - Ally Projectile
+  - Enemy Projectile
+  - Spawner
+  - Spawner1
+  - RightDoor
+  - LeftDoor
+  - Spawner2
+  - SpawnPoint2
+  - GameManager
+  - SpawnPoint3
+  - SpawnPoint4
+  - Undefined
+  - VerticalDoor
+  - SpawnPoint5
+  - SpawnPoint6
+  - wall
+  - SpawnBoss
+  - Interact Button
+  - SpawnPoint7
+  - SpawnPoint8
+  - Door
+  - SpawnPoint9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - HitBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
